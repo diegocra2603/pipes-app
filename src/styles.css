@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+html, body {
+    margin: 10px;
+    background-color: var(--sourface-b);
+    font-family: var(--font-family);
+}
+
+.text-layout {
+    color: var(--text-color);
+}
+
+.mr-1{
+    margin-right: 1rem;
+}
+.m{
+    margin: 1.2rem;
+}
